@@ -1,0 +1,61 @@
+/*
+StockTwits.css
+*/
+
+
+#Chartly_wrapper {
+    font-family:Tahoma,Verdana,Arial,Helvetica,"Bitstream Vera Sans",sans-serif;
+    font-size:11px;
+	border: 1px solid #ddd;
+    background:#FFF none repeat scroll 0 0;
+    margin:5px auto 0;
+    padding: 0;
+    text-align:left;
+    }
+
+.moduleHeader {
+    background:#F4F4F4 url(widgetheader.png) repeat-x scroll center center;
+    padding:3px 0 5px;
+    margin: 0;
+    height:1.8em;
+    min-height:20px;
+    overflow:hidden;
+    position:relative;
+    }
+
+.moduleHeader .ico {
+    border-bottom:medium none;
+    float: left;
+    padding: 5px;
+    margin:0;
+    }
+
+.moduleHeader .title {
+    color:#fff;
+    font-weight:bold;
+    line-height:1.8em;
+    padding-left:25px;
+	font-size:12px;
+    }
+
+.moduleContent {
+    background:#FFFFFF none repeat scroll 0 0;
+    /* clear:both; */
+    padding:5px;
+    margin:0;
+}
+
+.moduleFooter {
+   padding:1px;
+   font-size:0.9em;
+   border-top: 1px solid #ddd;
+   background-color: #eee;
+ }
+.moduleFooter a {
+	color: #C9A204;
+}
+.chartly-pic {
+padding: 2px;
+margin: 3px;
+border: 1px solid #D8EBE5;
+}
